@@ -17,6 +17,14 @@ This repository is the **final product and academic delivery**. It is separate f
 
 This system is **not** intended for identity verification or cross-camera identity tracking.
 
+## Curated delivery workstreams (created; code migration pending)
+
+- [YOLO Instance Segmentation](https://github.com/folklazy/YOLO-Instance-Segmentation)
+- [Human Parsing](https://github.com/folklazy/Human-Parsing)
+- [Clothing Color Extraction](https://github.com/folklazy/Clothing-Color-Extraction)
+- Private [CCTV Ground Truth Dataset](https://github.com/folklazy/CCTV-Ground-Truth-Dataset)
+- Private [Web Application + API + Database](https://github.com/folklazy/Human-Body-Extraction-Web-Platform)
+
 ## Source of truth / related repositories
 
 - [Project Hub](https://github.com/folklazy/Human-Body-Extraction)
